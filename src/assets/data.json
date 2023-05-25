@@ -2,7 +2,7 @@
   {
     "id": 1,
     "thumbnail": "https://uploads-ssl.webflow.com/60f31ffb47d0ac4b28d56fb6/620d1561956a66088149a308_guided_meditation_lightsleep.jpg",
-    "title": "Item 1",
+    "title": "Sound 1",
     "unique_plays": 188682,
     "total_plays": 116445,
     "completion_rate": 19
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "thumbnail": "https://uploads-ssl.webflow.com/60f31ffb47d0ac4b28d56fb6/620d1571c1155b69b54cb0de_10_minutes_deep_relaxation.jpg",
-    "title": "Item 2",
+    "title": "Sound 2",
     "unique_plays": 169602,
     "total_plays": 248354,
     "completion_rate": 2
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "thumbnail": "https://uploads-ssl.webflow.com/60f31ffb47d0ac4b28d56fb6/620d1582887231190dcc70b2_guided_talkdown_to_blissful_sleep__explicit__result-p-500.jpeg",
-    "title": "Item 3",
+    "title": "Sound 3",
     "unique_plays": 91978,
     "total_plays": 119033,
     "completion_rate": 32
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "thumbnail": "https://uploads-ssl.webflow.com/60f31ffb47d0ac4b28d56fb6/620d15a65b18cfc0eca78ae2_surrender__let_go_of_anxiety.jpg",
-    "title": "Item 4",
+    "title": "Sound 4",
     "unique_plays": 17308,
     "total_plays": 141093,
     "completion_rate": 72
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "thumbnail": "https://uploads-ssl.webflow.com/60f31ffb47d0ac4b28d56fb6/620d1546eab47f776fb52db9_transform.jpg",
-    "title": "Item 5",
+    "title": "Sound 5",
     "unique_plays": 71444,
     "total_plays": 162017,
     "completion_rate": 22
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "thumbnail": "https://uploads-ssl.webflow.com/60f31ffb47d0ac4b28d56fb6/620d1594954f741e57b17274_5_minute_guided_sleep_meditation_result.jpg",
-    "title": "Item 6",
+    "title": "Sound 6",
     "unique_plays": 195965,
     "total_plays": 296535,
     "completion_rate": 42
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "thumbnail": "https://uploads-ssl.webflow.com/60f31ffb47d0ac4b28d56fb6/620d15b4dab7643db9ddc47e_45_minute_guided_sleep_meditation_result.jpg",
-    "title": "Item 7",
+    "title": "Sound 7",
     "unique_plays": 65374,
     "total_plays": 150066,
     "completion_rate": 65
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "thumbnail": "https://uploads-ssl.webflow.com/60f31ffb47d0ac4b28d56fb6/620d15c5f6444f2495e5feda_15_minute_guided_sleep_meditation_result-p-500.jpeg",
-    "title": "Item 8",
+    "title": "Sound 8",
     "unique_plays": 91482,
     "total_plays": 227844,
     "completion_rate": 33
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "thumbnail": "https://uploads-ssl.webflow.com/60f31ffb47d0ac4b28d56fb6/620d1582887231190dcc70b2_guided_talkdown_to_blissful_sleep__explicit__result-p-500.jpeg",
-    "title": "Item 9",
+    "title": "Sound 9",
     "unique_plays": 155132,
     "total_plays": 115457,
     "completion_rate": 32
