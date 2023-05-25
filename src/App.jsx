@@ -5,10 +5,9 @@ import Body from './components/Body'
 function App() {
 
   return (
-    <div className='w-screen'>
+    <div>
       <Navbar/>
       <Body/>
-      {/* <ListItem/> */}
     </div>
   )
 }

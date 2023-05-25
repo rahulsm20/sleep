@@ -1,5 +1,5 @@
 # Dashboard
-
+[Deployed link](https://sleep-alpha.vercel.app/)
 ## Tech stack 
 * ReactJS
 * TailwindCSS

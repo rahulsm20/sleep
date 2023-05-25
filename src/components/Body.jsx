@@ -1,4 +1,4 @@
-import React,{useState,useMemo} from 'react'
+import {useState,useMemo} from 'react'
 import ListItem from "./ListItem"
 import data from '../assets/data.json'
 const Body = () => {
@@ -18,9 +18,9 @@ const Body = () => {
   
   return (
     <div className="grid grid-cols-1 m-10 p-5">
-      <p className='text-3xl mb-5'>
+      <h1 className='text-5xl mb-5 font-thin'>
       Dashboard
-      </p>
+      </h1>
         <input placeholder="Search a sound" className="p-5 rounded-xl input w-50 bg-white text-black border-6 border-cyan-200"  value={query}
               onChange={(event) => {
               setQuery(event.target.value);
