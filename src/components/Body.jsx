@@ -25,7 +25,7 @@ const Body = () => {
               onChange={(event) => {
               setQuery(event.target.value);
             }}/>
-        <div className="grid lg:grid-cols-2  gap-10 sm:grid-cols-1">
+        <div className="grid lg:grid-cols-2  gap-10 sm:grid-cols-1 md:grid-cols-2">
         {list}
         </div>
     </div>
