@@ -13,3 +13,6 @@
    ```npm install```
 4. Run  
    ```npm run dev``` 
+
+## Demo 
+https://github.com/rahulsm20/sleep/assets/77540672/a8b0793e-1c33-4a96-9c80-53146c86a1ff
